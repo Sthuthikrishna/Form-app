@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  font-family: 'Inter';
+}
+.App{
+  background-color: #78AEFF;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
